@@ -1,5 +1,6 @@
 # Books
-http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
+* http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-books/
+* https://www.amazon.ca/Performance-Breakthrough-Radical-Approach-Success/dp/0316382485
 
 # Blogs
 * https://phraseapp.com/blog/posts/10-must-read-blogs-for-software-developer/
