@@ -20,4 +20,6 @@ http://www.nomachetejuggling.com/2014/02/05/top-10-career-changing-programming-b
 * http://peterknolle.com
 * https://www.salesforce.com/ca/blog/
 
+# Blogs - Leadership
+* https://www.manager-tools.com/manager-tools-basics
 
