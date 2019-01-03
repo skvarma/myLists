@@ -25,3 +25,6 @@
 # Blogs - Leadership
 * https://www.manager-tools.com/manager-tools-basics
 
+# Finance
+* http://www.ndir.com
+
