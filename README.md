@@ -22,10 +22,13 @@
 * http://advancedapex.com/blog/
 * http://peterknolle.com
 * https://www.salesforce.com/ca/blog/
+* https://developer.salesforce.com/page/Multi_Tenant_Architecture 
+* https://www.youtube.com/watch?v=Q9hKeA06j-w 
 
 # Blogs - Leadership
 * https://www.manager-tools.com/manager-tools-basics
 
 # Finance
 * http://www.ndir.com
+
 
