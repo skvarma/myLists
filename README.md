@@ -32,6 +32,7 @@
 
 # Blogs - Leadership
 * https://www.manager-tools.com/manager-tools-basics
+* http://randsinrepose.com/
 
 # Finance
 * http://www.ndir.com
