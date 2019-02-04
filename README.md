@@ -39,3 +39,6 @@
 # Podcast
 * https://www.gooddaysirpodcast.com/
 
+# Awesome Lists
+* https://awesomelists.top
+
