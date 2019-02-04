@@ -36,4 +36,6 @@
 # Finance
 * http://www.ndir.com
 
+# Podcast
+* https://www.gooddaysirpodcast.com/
 
