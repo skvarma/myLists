@@ -45,4 +45,7 @@
 
 # conferences
 * https://theleaddeveloper.com/
-* pluralsight confernce
+* pluralsight 
+
+# Magzines
+* increment.com
