@@ -43,3 +43,6 @@
 # Awesome Lists
 * https://awesomelists.top
 
+# conferences
+* https://theleaddeveloper.com/
+* pluralsight confernce
