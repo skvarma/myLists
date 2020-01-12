@@ -8,6 +8,7 @@
 * Mindset: The New Psychology of Success - https://www.amazon.ca/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 * LEADERS EAT LAST - http://cronkitehhh.jmc.asu.edu/blog/2017/12/leadership-book-leaders-eat-last/
 * Multipliers - https://www.amazon.ca/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395
+* Atomic Habits - https://www.amazon.ca/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?crid=2XKXWTI5UO4EJ&keywords=atomic+habits&qid=1578837236&sprefix=ato%2Caps%2C151&sr=8-1
 
 
 # Blogs
