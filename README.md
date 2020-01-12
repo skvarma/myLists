@@ -35,6 +35,7 @@
 * https://www.manager-tools.com/manager-tools-basics
 * http://randsinrepose.com/
 * New Manager Resources - https://statushero.com/blog/resources-for-new-managers/
+* Knoster Model for Complex Chnage - https://practices.learningaccelerator.org/strategies/tool-knoster-model-for-managing-complex-change
 
 # Finance
 * http://www.ndir.com
