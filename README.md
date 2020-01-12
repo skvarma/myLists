@@ -8,7 +8,7 @@
 * Mindset: The New Psychology of Success - https://www.amazon.ca/Mindset-Psychology-Carol-S-Dweck/dp/0345472322
 * LEADERS EAT LAST - http://cronkitehhh.jmc.asu.edu/blog/2017/12/leadership-book-leaders-eat-last/
 * Multipliers - https://www.amazon.ca/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395
-* New Manager Resources - https://statushero.com/blog/resources-for-new-managers/
+
 
 # Blogs
 * https://phraseapp.com/blog/posts/10-must-read-blogs-for-software-developer/
@@ -34,6 +34,7 @@
 # Blogs - Leadership
 * https://www.manager-tools.com/manager-tools-basics
 * http://randsinrepose.com/
+* New Manager Resources - https://statushero.com/blog/resources-for-new-managers/
 
 # Finance
 * http://www.ndir.com
@@ -43,6 +44,10 @@
 
 # Awesome Lists
 * https://awesomelists.top
+
+# DevOps
+* DevOPs Guide - https://github.com/Tikam02/DevOps-Guide
+
 
 # conferences
 * https://theleaddeveloper.com/
