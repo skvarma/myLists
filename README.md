@@ -40,6 +40,7 @@
 * New Manager Resources - https://statushero.com/blog/resources-for-new-managers/
 * Knoster Model for Complex Chnage - https://practices.learningaccelerator.org/strategies/tool-knoster-model-for-managing-complex-change
 * Resources for Staff Engineer Plus - https://lethain.com//staff-plus-eng-resources/
+* First 90 days - https://lethain.com/first-ninety-days-cto-vpe/
 
 # Finance
 * http://www.ndir.com
