@@ -41,6 +41,7 @@
 * Knoster Model for Complex Chnage - https://practices.learningaccelerator.org/strategies/tool-knoster-model-for-managing-complex-change
 * Resources for Staff Engineer Plus - https://lethain.com//staff-plus-eng-resources/
 * First 90 days - https://lethain.com/first-ninety-days-cto-vpe/
+* The Lead Dev - https://theleaddeveloper.com/blog/2019-12-19-leadership-reading-lists-austin-and-berlin-2019-conferences
 
 # Finance
 * http://www.ndir.com
